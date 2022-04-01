@@ -1,0 +1,15 @@
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\bin\Debug\net5.0\WissenTours.Management.Application.deps.json
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\bin\Debug\net5.0\WissenTours.Management.Application.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\bin\Debug\net5.0\ref\WissenTours.Management.Application.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\bin\Debug\net5.0\WissenTours.Management.Application.pdb
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\WissenTours.Management.Application.csproj.AssemblyReference.cache
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\WissenTours.Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\WissenTours.Management.Application.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\WissenTours.Management.Application.AssemblyInfo.cs
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\WissenTours.Management.Application.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\WissenTours.Management.Application.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\ref\WissenTours.Management.Application.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\WissenTours.Management.Application.pdb
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\bin\Debug\net5.0\WissenTours.Domain.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\bin\Debug\net5.0\WissenTours.Domain.pdb
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.Application\obj\Debug\net5.0\WissenTours.Management.Application.csproj.CopyComplete

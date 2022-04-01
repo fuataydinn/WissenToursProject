@@ -1,0 +1,12 @@
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\bin\Debug\net5.0\WissenTours.Domain.deps.json
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\bin\Debug\net5.0\WissenTours.Domain.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\bin\Debug\net5.0\ref\WissenTours.Domain.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\bin\Debug\net5.0\WissenTours.Domain.pdb
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\obj\Debug\net5.0\WissenTours.Domain.csproj.AssemblyReference.cache
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\obj\Debug\net5.0\WissenTours.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\obj\Debug\net5.0\WissenTours.Domain.AssemblyInfoInputs.cache
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\obj\Debug\net5.0\WissenTours.Domain.AssemblyInfo.cs
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\obj\Debug\net5.0\WissenTours.Domain.csproj.CoreCompileInputs.cache
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\obj\Debug\net5.0\WissenTours.Domain.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\obj\Debug\net5.0\ref\WissenTours.Domain.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Domain\obj\Debug\net5.0\WissenTours.Domain.pdb
