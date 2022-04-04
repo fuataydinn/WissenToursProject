@@ -10,3 +10,14 @@ C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\obj\D
 C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\obj\Debug\net5.0\WissenTours.Management.DataAccess.dll
 C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\obj\Debug\net5.0\ref\WissenTours.Management.DataAccess.dll
 C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\obj\Debug\net5.0\WissenTours.Management.DataAccess.pdb
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Persistence.deps.json
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Persistence.runtimeconfig.json
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Persistence.runtimeconfig.dev.json
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Persistence.exe
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Domain.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Management.Application.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Persistence.dll
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Management.Application.pdb
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Persistence.pdb
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\bin\Debug\net5.0\WissenTours.Domain.pdb
+C:\Users\faydn\source\repos\Wissen Tours\WissenTours.Management.DataAccess\obj\Debug\net5.0\WissenTours.Management.DataAccess.csproj.CopyComplete

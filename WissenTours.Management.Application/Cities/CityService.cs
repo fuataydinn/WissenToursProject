@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WissenTours.Domain;
 using WissenTours.Management.Application.Repositories;
 
 namespace WissenTours.Management.Application.Cities
@@ -16,28 +17,41 @@ namespace WissenTours.Management.Application.Cities
         {
             _cityRepository = cityRepository;
         }
-        public void Create(CityDTO city)
+
+        public void Create(CityDTO cityDTO)
         {
-            throw new NotImplementedException();
+            var city = new City()
+            {
+                Id = cityDTO.Id,
+                Name = cityDTO.Name
+            };
+            _cityRepository.Create(city);
         }
 
-        public void Delete(CityDTO city)
+        public void Delete(CityDTO cityDTO)
         {
-            throw new NotImplementedException();
+            if (cityDTO != null)
+            {
+                var city = new City()
+                {
+                    Id = cityDTO.Id,
+                    Name = cityDTO.Name
+                };
+                _cityRepository.Delete(city);
+            }
         }
 
         public IEnumerable<CityDTO> GetAll()
         {
-            var cityEntities = _cityRepository.GetAll(); //Domaindeki City nesnesini list olarak aldık.
+            var cityEntities = _cityRepository.GetAll();
             var cityDTOs = new List<CityDTO>();
 
-            foreach (var entity in cityEntities) 
+            foreach (var entity in cityEntities)
             {
-                //City nesnesini CityDTO nesnesine Mapping yapıyorum --- Bu DTO presentation katmanına yollıyıcaz
-                cityDTOs.Add(new CityDTO()
+                cityDTOs.Add(new CityDTO
                 {
                     Id = entity.Id,
-                    Name=entity.Name
+                    Name = entity.Name
                 });
             }
             return cityDTOs;
@@ -45,12 +59,29 @@ namespace WissenTours.Management.Application.Cities
 
         public CityDTO GetById(int id)
         {
-            throw new NotImplementedException();
+            var entity = _cityRepository.GetById(id);
+            if (entity != null)
+            {
+                var cityDTO = new CityDTO()
+                {
+                    Id = entity.Id,
+                    Name = entity.Name
+                };
+                return cityDTO;
+            }
+            else
+            {
+                return null;
+            }
         }
 
-        public void Update(CityDTO city)
+        public void Update(CityDTO cityDTO)
         {
-            throw new NotImplementedException();
+            var city = _cityRepository.GetById(cityDTO.Id);
+           
+            city.Name = cityDTO.Name;
+          
+            _cityRepository.Update(city);
         }
     }
 }

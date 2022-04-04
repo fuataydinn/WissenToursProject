@@ -11,5 +11,11 @@ namespace WissenTours.Management.Application.Repositories
     {
         //Application katmanında oldugumuz icin, domain katmanından o sınıf gelmesi gerekiyor.
         IEnumerable<City> GetAll();
+        City GetById(int id);
+        void Update(City city);
+        void Create(City city);
+        void Delete(City city);
+
+
     }
 }

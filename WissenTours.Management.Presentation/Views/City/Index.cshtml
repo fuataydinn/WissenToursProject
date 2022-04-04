@@ -1,3 +1,33 @@
-﻿@* using calısmaz buurda bunun icin View import'a git Views klasorunun altında *@
+﻿@* using calısmaz burda bunun icin View import'a git Views klasorunun altında *@
+
 
 @model IEnumerable<CityDTO>
+
+<div class="row">
+    <div class="col-12 col-md-8">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>
+                        <a class="btn btn-success" asp-action="Create">New City</a>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var city in Model)
+                {
+                    <tr>
+                        <td>@city.Id</td>
+                        <td>@city.Name</td>
+                        <td>
+                            <a class="btn btn-primary" asp-route-id=@city.Id asp-action="Update">Update</a>
+                            <a class="btn btn-danger" asp-route-id=@city.Id asp-action="Delete">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div> 

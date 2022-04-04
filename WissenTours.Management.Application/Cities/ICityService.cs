@@ -16,7 +16,7 @@ namespace WissenTours.Management.Application.Cities
     //yazdıgımız interface'i hangi sınıf implement ediyorsa isi/kodlamayı o yapacak
 
     //public class CityService : ICityService
-    //yukarıda yazılan kodlamadaki sentaksa interface'ler ozerlinde mirak almak degil, interface'i IMPLEMENT ETMEK (uyarlamak/kodlamak) denir
+    //yukarıda yazılan kodlamadaki sentaksa interface'ler ozelinde miras almak degil, interface'i IMPLEMENT ETMEK (uyarlamak/kodlamak) denir
      public interface ICityService
     {
         //Domain nesnesi yerine DTO (veri tasıma nesneleri) kullanıcaz ... Domain'e yalnızca Application mudahale etsin diye DTO olusturuyoruz. 
